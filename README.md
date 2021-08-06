@@ -1,5 +1,5 @@
 1 import java.util.*;
-2 public class Stage0_DEVIKA_script
+2 public class Azeezat_stage0_script 
 3{
           
 4 static int hammingDist(String SU, String TH)
