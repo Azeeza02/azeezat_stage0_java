@@ -1,8 +1,8 @@
 1 import java.util.*;
-2public class Stage0_DEVIKA_script
+2 public class Stage0_DEVIKA_script
 3{
           
-4static int hammingDist(String SU, String TH)
+4 static int hammingDist(String SU, String TH)
 5{
 6    int i = 0, count = 0;
 7    while (i < SU.length())
@@ -14,13 +14,13 @@
 13    return count;
 14}
  
-15public static void main (String[] args)
+15 public static void main (String[] args)
 16{
-17    String SU = "@Devika";
-18    String TH = "@Devpoo";
+17    String SU = "@Azeezat";
+18    String TH = "@Azeezat02";
 19 
 20    
-21    System.out.println("Devika Kaliana, devikakaliana94@gmail.com,@Devika, Gemonics, @Devpoo, "+ hammingDist (SU, TH));
+21    System.out.println("Azeezat Osikoya, oluwatobiosikoya1@gmail.com,@Azeezat, Drug Development, @Azeezat02, "+ hammingDist (SU, TH));
 22    
 23}
 24}
